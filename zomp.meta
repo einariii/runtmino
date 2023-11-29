@@ -1,0 +1,28 @@
+{name,"Runtmino"}.
+{type,app}.
+{modules,[]}.
+{prefix,"runtmino"}.
+{author,"einariii"}.
+{desc,[]}.
+{package_id,{"otpr","runtmino",{0,1,0}}}.
+{deps,[{"otpr","vanillae",{0,4,1}},
+       {"otpr","getopt",{1,0,2}},
+       {"otpr","eblake2",{1,0,0}},
+       {"otpr","zj",{1,1,0}},
+       {"otpr","aeserialization",{0,1,0}},
+       {"otpr","aesophia",{7,1,2}},
+       {"otpr","aebytecode",{3,2,1}},
+       {"otpr","ec_utils",{1,0,0}},
+       {"otpr","erl_base58",{0,1,0}},
+       {"otpr","cowboy",{2,10,1}},
+       {"otpr","ranch",{2,1,0}},
+       {"otpr","cowlib",{2,12,1}}]}.
+{key_name,none}.
+{a_email,[]}.
+{c_email,[]}.
+{copyright,"einariii"}.
+{file_exts,[]}.
+{license,"MIT"}.
+{repo_url,[]}.
+{tags,[]}.
+{ws_url,[]}.
